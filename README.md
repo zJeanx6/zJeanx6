@@ -1,4 +1,4 @@
-  <h1 align="center"><b>Hey, I'm Jeann </b></h1>
+<h1 align="center"><b>Hey, I'm Jeann </b></h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
@@ -15,6 +15,7 @@
 - 🧠 I’m focused on **improving my logic**, backend skills, and starting strong in **frontend**.
 - 🚀 I’ve been working with **Laravel, PHP, Tailwind, MySQL**, and some **hardware tech** too.
 - 🌱 Currently learning **Flutter, Dart, React**.
+- 🧩 Exploring modern tools like **Livewire**, **Filament** (admin panels), and **Flux** (state management).
 - 🏋️ I train at the gym and run a business called **Steel Facts** with sports accessories.
 - 📈 I’m aiming to grow both as a **developer** and an **entrepreneur**.
 
@@ -37,11 +38,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flux](https://img.shields.io/badge/Flux-%23000000.svg?style=for-the-badge&logo=flux&logoColor=white)
 
 ---
 
 ### 🛠 Backend & DB
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%23F9322C.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-%23102A43.svg?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
