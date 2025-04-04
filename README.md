@@ -23,11 +23,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
-### 🧠 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ---
 
 ### 🌐 Frontend
@@ -43,6 +38,7 @@
 ---
 
 ### 🛠 Backend & DB
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-%23F9322C.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-%23102A43.svg?style=for-the-badge&logoColor=white)
