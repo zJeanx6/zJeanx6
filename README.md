@@ -25,6 +25,16 @@
 
 ---
 
+### 🛠 Backend & DB
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%23F9322C.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-%23102A43.svg?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,16 +44,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flux](https://img.shields.io/badge/Flux-%23000000.svg?style=for-the-badge&logo=flux&logoColor=white)
-
----
-
-### 🛠 Backend & DB
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-%23F9322C.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-%23102A43.svg?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
@@ -59,7 +59,7 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:jeannfacts@gmail.com"><img src="https://img.shields.io/badge/Gmail-jeann.yourmail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jeannfacts@gmail.com"><img src="https://img.shields.io/badge/Gmail-jeannfacts@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--   <a href="https://www.linkedin.com/in/jeann-dev"><img src="https://img.shields.io/badge/LinkedIn-JeannDev-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
 
