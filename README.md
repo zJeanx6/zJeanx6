@@ -60,8 +60,8 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:jeann.yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-jeann.yourmail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jeann-dev"><img src="https://img.shields.io/badge/LinkedIn-JeannDev-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jeannfacts@gmail.com"><img src="https://img.shields.io/badge/Gmail-jeann.yourmail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!--   <a href="https://www.linkedin.com/in/jeann-dev"><img src="https://img.shields.io/badge/LinkedIn-JeannDev-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
 
 ---
