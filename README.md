@@ -14,10 +14,8 @@
 - 💻 I’m a passionate junior full-stack developer in progress.
 - 🧠 I’m focused on **improving my logic**, backend skills, and starting strong in **frontend**.
 - 🚀 I’ve been working with **Laravel, PHP, Tailwind, MySQL**, and some **hardware tech** too.
-- 🌱 Currently learning **Flutter, Dart, React**.
-- 🧩 Exploring modern tools like **Livewire**, **Filament** (admin panels), and **Flux** (state management).
-- 🏋️ I train at the gym and run a business called **Steel Facts** with sports accessories.
-- 📈 I’m aiming to grow both as a **developer** and an **entrepreneur**.
+- 🌱 Currently learning **JavarScript, React**.
+- 🧩 Exploring modern tools like **Livewire**, **Filament** (admin panels), and **Flux**
 
 ---
 
