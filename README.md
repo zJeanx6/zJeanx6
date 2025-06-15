@@ -5,7 +5,7 @@
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50></picture> About Me
+## About Me
 
 <picture> 
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250> 
@@ -16,12 +16,6 @@
 - 🚀 I’ve been working with **Laravel, PHP, Tailwind, MySQL**, and some **hardware tech** too.
 - 🌱 Currently learning **JavarScript, React**.
 - 🧩 Exploring modern tools like **Livewire**, **Filament** (admin panels), and **Flux**
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
-
----
 
 ### 🛠 Backend & DB
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
